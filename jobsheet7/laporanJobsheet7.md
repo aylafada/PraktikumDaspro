@@ -49,5 +49,23 @@ program menampilkan pesan tambahan "Bagus, pertahankan nilainya"!
 
 ## 2.3 Percobaan 3: Studi Kasus Transaksi di Kafe – Perulangan DO-WHILE
 
-1. 
+1. Pada penggunaan DO-WHILE ini, apabila nama pelanggan yang dimasukkan pertama kali
+adalah “batal”, maka berapa kali perulangan dilakukan?
+- 1 kali, karena do while menjalankan kode di dalam do dulu sebelum cek kondisi 
+2. Sebutkan kondisi berhenti yang digunakan pada perulangan DO-WHILE tersebut!
+- pada saat nama pelanggan yang dimasukkan adalah "batal"
+3. Apa fungsi dari penggunaan nilai true pada kondisi DO-WHILE?
+- while (true) membuat loop jadi infinite loop sampai ada perintah untuk berhenti, atau supaya program terus meminta input nama pelanggan sampai user mengetik "batal"
+4. Mengapa perulangan DO-WHILE tersebut tetap berjalan meskipun tidak ada komponen
+inisialisasi dan update?
+- karena do while menjalankan kode di dalam loop terlebih dahulu baru mengecek kondisinya, jadi tidak perlu memberi nilai awal atau update di luar loop. Selama break belum terpanggil, program akan terus berjalan.
 
+## Tugas
+1. Berikut hasil program menghitung total tiket yang terjual dan total harga penjualan selama satu hari: 
+![alt text](image-6.png)
+Berikut hasil output program: 
+![alt text](image-7.png)
+2. Berikut hasil program untuk menghitung total pembayaran parkir dari beberapa kendaraan: 
+![alt text](<Screenshot 2025-10-27 202943.png>)
+Berikut hasil output program: 
+![alt text](image-8.png)
