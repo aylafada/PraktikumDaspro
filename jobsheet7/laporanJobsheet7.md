@@ -12,18 +12,18 @@
 
 2. Mengapa variabel tertinggi diinisialisasi 0 dan terendah diinisialisasi 100? Apa yang terjadi jika variabel tertinggi diinisialisasi 100 dan terendah diinisialisasi 0?
 - variabel tertinggi diinisialisasi 0 karena tidak ada nilai mahasiswa yang lebih kecil dari 0, agar ketika ada nilai yang lebih dari 0, program bisa langsung memperbarui nilai tertinggi tersebut. Sedangkan variabel terendah diinisialisasi 100 karena dianggap tidak ada nilai yang lebih tinggi dari 100, dan supaya ketika ada nilai yang lebih kecil dari 100, program dapat menggantinya sebagai nilai terendah yang baru.
-- yang akan terjadi ketika nilai terendah diinisialisasi 0 dan nilai tertinggi = 100 adalah nilai tertinggi akan tetap 100 meskipun pengguna memasukkan nilai yang lebih kecil, dan nilai terendah akan tetap 0 meskipun pengguna memasukkan nilai yang lebih besar. Berikut adalah hasil program ketika insialisasi variabel tertinggi dan terendah dibalik: 
-![alt text](<Screenshot 2025-10-24 095842 - Copy.png>)
+- yang akan terjadi ketika nilai terendah diinisialisasi 0 dan nilai tertinggi = 100 adalah nilai tertinggi akan tetap 100 meskipun pengguna memasukkan nilai yang lebih kecil, dan nilai terendah akan tetap 0 meskipun pengguna memasukkan nilai yang lebih besar. Berikut adalah hasil program ketika insialisasi variabel tertinggi dan terendah dibalik:
+- ![alt text](<Screenshot 2025-10-24 095842 - Copy.png>)
 
 3. Jelaskan fungsi dan alur kerja dari potongan kode berikut! 
-![alt text](image-1.png)
+- ![alt text](image-1.png)
 - Kode tersebut akan bekerja berulang setiap kali pengguna memasukkan nilai yang baru. Variabel tertinggi akan menyimpan nilai terbesar, dan variabel terendah akan menyimpan nilai terkecil dari seluruh input.
 
 4. Modifikasi kode program sehingga terdapat perhitungan untuk menentukan berapa mahasiswa yang lulus dan yang tidak lulus berdasarkan batas kelulusan (nilai minimal 60). Tampilkan jumlah mahasiswa lulus dan tidak lulus setelah menampilkan nilai tertinggi dan terendah!
 - Berikut adalah program hasil modifikasi: 
-![alt text](image-2.png)
+- ![alt text](image-2.png)
 - Berikut adalah output program: 
-![alt text](image-3.png)
+- ![alt text](image-3.png)
 
 ## 2.2 Percobaan 2: Studi Kasus Nilai Mahasiswa di SIAKAD – Perulangan WHILE
 
@@ -43,9 +43,9 @@ b. continue
 4. Modifikasi kode program sehingga apabila terdapat mahasiswa yang mendapat nilai A,
 program menampilkan pesan tambahan "Bagus, pertahankan nilainya"!
 - Berikut program hasil modifikasi: 
-![alt text](image-5.png)
+- ![alt text](image-5.png)
 - Berikut hasil output program yang telah dimodifikasi: 
-![alt text](image-4.png)
+- [alt text](image-4.png)
 
 ## 2.3 Percobaan 3: Studi Kasus Transaksi di Kafe – Perulangan DO-WHILE
 
@@ -62,10 +62,10 @@ inisialisasi dan update?
 
 ## Tugas
 1. Berikut hasil program menghitung total tiket yang terjual dan total harga penjualan selama satu hari: 
-![alt text](image-6.png)
+- ![alt text](image-6.png)
 Berikut hasil output program: 
-![alt text](image-7.png)
+- ![alt text](image-7.png)
 2. Berikut hasil program untuk menghitung total pembayaran parkir dari beberapa kendaraan: 
-![alt text](<Screenshot 2025-10-27 202943.png>)
+- ![alt text](<Screenshot 2025-10-27 202943.png>)
 Berikut hasil output program: 
-![alt text](image-8.png)
+- ![alt text](image-8.png)
