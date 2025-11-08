@@ -47,18 +47,31 @@ mengapa inisialisasinya (total = 0) berada di dalam outer loop, bukan di luar.
 - fungsi variabel totalNilai adalah menyimpan jumlah nilai dari 5 penilai dalam 1 kelompok. kalau diluar loop nilainya akan menumouk dari kelompok sebelumnya, membuat rata-ratanya salah
 2. Modifikasi program di atas, sehingga dapat mencari kelompok dengan rata-rata nilai tertinggi dan tampilkan nomor kelompok tersebut
 Berikut hasil modifikasi untuk mencari kelompok dengan rata-rata nilai tertinggi beserta nomor kelompoknya: 
-- 
+- <img width="1462" height="892" alt="image" src="https://github.com/user-attachments/assets/d1a1e49d-2b7c-4800-b025-5e8f3dd58a50" />
+
 
 ## TUGAS
 
 ### 1.  Program untuk menghitung dan menampilkan jumlah kuadrat
 Berikut hasil program: 
+<img width="678" height="432" alt="image" src="https://github.com/user-attachments/assets/93955655-09eb-422e-b093-bc9aa8ba53c2" />
+
 Berikut hasil output program: 
+<img width="674" height="214" alt="image" src="https://github.com/user-attachments/assets/b11973c3-681e-4706-b9ac-6d905950c857" />
+
 
 ### 2. Program untuk mencetak tampilan persegi angka
 Berikut hasil program: 
+<img width="732" height="374" alt="image" src="https://github.com/user-attachments/assets/88d9339b-bc5a-4e4d-a29f-7ce29a605dc7" />
+
 Berikut hasil output program: 
+- <img width="441" height="162" alt="image" src="https://github.com/user-attachments/assets/00da85c3-a542-496a-95ae-a807a81926df" />
+
 
 ### 3. Program aktivitas penjualan setiap cabang kafe 
 Berikut hasil program: 
+<img width="815" height="783" alt="image" src="https://github.com/user-attachments/assets/58be8b13-e2e4-4452-a448-08511923fefe" />
+
 Berikut hasil output program: 
+- <img width="425" height="679" alt="image" src="https://github.com/user-attachments/assets/493b58af-8994-4730-bd28-63025b5fa37d" />
+
