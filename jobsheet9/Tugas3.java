@@ -27,6 +27,7 @@ public class Tugas3 {
         } else {
             System.out.println("Makanan Tidak Tersedia. ");
         }
-       
+    
+
     }
 }

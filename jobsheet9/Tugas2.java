@@ -23,10 +23,10 @@ public class Tugas2 {
             total += hargaMenu[i];
         }
 
-        System.out.println("=== Daftar Pesanan ===");
-        for(String i : menu){
-            System.out.println("Menu ke-" +i +": ");
-        }
+        // System.out.println("=== Daftar Pesanan ===");
+        // for(String i : menu){
+        //     System.out.println("Menu ke-" +i +": ");
+        // }
 
         for(int i = 0; i<jmlPesanan; i++) {
             System.out.println((i+1) +". " +menu[i] +" - Rp" +hargaMenu[i]);

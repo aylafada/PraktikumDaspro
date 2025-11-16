@@ -4,8 +4,8 @@ public class ArrayRataNilai06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double rataLulus, rataTidakLulus;
-        int jmlMahasiswa;
+        double total=0, rataLulus, nilaiTidakLulus=0, rataTidakLulus;
+        int jmlMahasiswa=0;
 
         System.out.print("Masukkan jumlah mahasiswa: ");
         jmlMahasiswa = sc.nextInt();

@@ -19,7 +19,7 @@ public class SearchNilai06 {
         key = sc.nextInt();
 
         String found = "false";
-        for(int i=0; i<arrNilai.length; i++){
+        for(int i=0; i<arrNilai.length; i++){   
             if (key == arrNilai[i]){
                 //int hasil = i;
                 System.out.println("Nilai  " +key +" merupakan nilai mahasiswa ke- " +(i+1));
