@@ -120,6 +120,7 @@ e. selesai
 - <img width="407" height="874" alt="image" src="https://github.com/user-attachments/assets/6648aa8c-6276-46eb-aa5a-f5a3c462db4e" />
 - Berikut output program:
 - <img width="207" height="901" alt="image" src="https://github.com/user-attachments/assets/641b7cd1-90bc-4c2b-98b7-63deea24437c" />
+- Berikut hasil modifikasi program pada nomor 3a
+- <img width="640" height="416" alt="image" src="https://github.com/user-attachments/assets/0ed18585-d9c1-42e9-b310-d903bf4843a3" />
 
--
 
