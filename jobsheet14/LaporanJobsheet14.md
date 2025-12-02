@@ -12,14 +12,14 @@
 - fungsi rekursif: pengulangan tanpa henti jika base case tidak terpenuhi. fungsi iteratif: pengulangan tanpa henti jika kondisi pengulangan selalu benar 
 
 ## Percobaan 2 
-pict: 2
 1. Pada Percobaan 2, terdapat pemanggilan fungsi rekursif hitungPangkat(bilangan, pangkat) pada fungsi main, kemudian dilakukan pemanggilan fungsi hitungPangkat() secara berulangkali. Jelaskan sampai kapan proses pemanggilan fungsi tersebut akan dijalankan!
 - sampai base case terpenuhi
 2. Tambahkan kode program untuk mencetak deret perhitungan pangkatnya. Contoh: hitungPangkat(2,5) dicetak 2x2x2x2x2x1 = 32
-- Berikut kode program yang ditambahkan: 
+- Berikut kode program yang ditambahkan:
+- <img width="545" height="527" alt="image" src="https://github.com/user-attachments/assets/0286fc1e-3234-405a-9a17-d04a3c642cea" />
+
 
 ## Percobaan 3
-(2)
 1. Pada Percobaan3, sebutkan blok kode program manakah yang merupakan “base case” dan “recursion call”!
 - base case: ```(tahun == 0)```
 recursion call: ````(1.11 * hitungLaba(saldo, tahun-1))````
@@ -40,6 +40,7 @@ return 100000; //tahun ke-1
 
 ## Tugas 
 Berikut program yang menimplementasikan fungsi rekrusif dan fungsi iteratif untuk menghitung dan mencetak total nilai: 
-- 
+- <img width="717" height="686" alt="image" src="https://github.com/user-attachments/assets/60ba3856-b1c1-46d3-b73a-de1ba8bc0a24" />
+
 Berikut adalah output program: 
-- 
+- <img width="430" height="147" alt="image" src="https://github.com/user-attachments/assets/9dbefe95-78aa-4205-a713-3041a053bc7e" />
